@@ -10,6 +10,12 @@ The following tools were used in the completion of this experiment: <br>
 - Anaconda Navigator 2.6.0<br>
 - Jupyter Notebook 7.0.8
 
+## File Inclusions
+1. **Dayao_Pandas-P1.py** - Problem 1 code
+2. **Dayao_Pandas-P2.py** - Problem 2 code
+3. **PA3 - Dayao.ipynb** - Jupyter Notebook containing Problem 1 and 2
+4. **cars.csv** - Dataframe
+
 ## Problem 1
 This problem involves loading a dataset provided in .csv format into a Pandas dataframe, named ***cars***, using the ***pd.read_csv('cars.csv')*** operation. Then, the first five and last five rows of the dataframe were displayed using the operation ***cars.head()*** and ***cars.tail()***.
 
